@@ -7,7 +7,9 @@
 
 ## Description of App;
 
-This app is the basic layout of an ecommerce database. The videos below go over the basic funtionality of the database construction and the implemtation of the routes using Insomnia. A user is able to create categories, product and product tags in the database. The puprose of the app is to operate as a system to hold information that is important to the user for their e-commerce storefront. The basics of the information can be later expanded on and used in further implementations of the app.
+Internet retail, also known as e-commerce, is the largest sector of the electronics industry, generating an estimated $29 trillion in 2019. E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to their prevalence, understanding the fundamental architecture of these platforms will benefit you as a full-stack web developer.
+
+Your task is to build the back end for an e-commerce site by modifying starter code. You’ll configure a working Express.js API to use Sequelize to interact with a MySQL database.
 
 ## Table of contents
 
